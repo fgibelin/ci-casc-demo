@@ -124,10 +124,6 @@ unclassified:
     useTls: false
   mavenModuleSet:
     localRepository: "default"
-  operationsCenterRootAction:
-    connectionDetails: "----- BEGIN CONNECTION DETAILS -----\nH4sIAAAAAAAAAB2LSQ7CMAwA/+IzTkgp0PQB/YftOCyKCMrCBfF3AscZzbzhUujRYIUY/UJHDUje\r\
-      \nTThPckYmdnjY+xCZ50VPHnZwC6N1uI1LdHAvaYhra8/VWrlnMZJyD6xaUXJRU18/1WvTYlIWSv/K\r\
-      \nwucLVqCbQHsAAAA=\r\n----- END CONNECTION DETAILS -----\n"
   pollSCM:
     pollingThreadCount: 10
   usageStatisticsCloudBees:
