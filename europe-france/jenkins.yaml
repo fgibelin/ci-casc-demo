@@ -33,7 +33,7 @@ jenkins:
   scmCheckoutRetryCount: 0
   securityRealm: "operationsCenter"
   slaveAgentPort: 50000
-  systemMessage: "Configuration As Code demo"
+  systemMessage: "Configuration As Code demo - Update"
   updateCenter:
     sites:
     - id: "core-mm-offline"
@@ -114,18 +114,10 @@ unclassified:
     storage: "file"
   gitHubConfiguration:
     apiRateLimitChecker: ThrottleForNormalize
-  gitHubPluginConfig:
-    configs:
-    - credentialsId: "fgibelin-gh"
-      manageHooks: false
-    hookUrl: "http://34.78.160.199.nip.io/europe-france/github-webhook/"
   gitSCM:
     createAccountBasedOnEmail: false
     showEntireCommitSummaryInChanges: false
     useExistingAccountWithSameEmail: false
-  location:
-    adminAddress: "Adresse pas encore configurée <nobody@nowhere>"
-    url: "http://34.78.160.199.nip.io/europe-france/"
   mailer:
     charset: "UTF-8"
     useSsl: false
