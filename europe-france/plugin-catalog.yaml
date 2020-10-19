@@ -16,5 +16,5 @@ configurations:
     build-pipeline-plugin: {version: 1.5.8}
     gitlab-api: {version: 1.0.6}
     locale: {version: '1.4'}
-    gitlab-oauth: {version: '1.9'}
+    gitlab-oauth: {version: '1.10'}
     configuration-as-code-groovy: {version: '1.1'}
