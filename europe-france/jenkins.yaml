@@ -33,7 +33,7 @@ jenkins:
   scmCheckoutRetryCount: 0
   securityRealm: "operationsCenter"
   slaveAgentPort: 50000
-  systemMessage: "Configuration As Code demo - Update, just because"
+  systemMessage: "Configuration As Code demo - With items & rbac"
   updateCenter:
     sites:
     - id: "core-mm-offline"
